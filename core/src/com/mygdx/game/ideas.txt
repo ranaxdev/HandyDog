@@ -1,0 +1,10 @@
+-Doggo can go around map and collect sticks and stones to upgrade house (structural strength)
+-Create different screens where you can assemble stuff
+    -Select hammer, screwdriver
+    -One screen could be nailing a plank (dragging nail into place and then hammering)
+    -One screen you could paint a wall
+    -One screen you could
+-Collection should reflect the task
+    -For nailing plank, collect wood
+    -For paint collect flowers (dyes)
+    -
